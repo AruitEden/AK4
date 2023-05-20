@@ -32,7 +32,7 @@ namespace CLab3
 
 
             Console.WriteLine("Введите путь к папке (БЕЗ кавычек): ");
-            string? path = null;
+            string? path = "";
             DirectoryInfo? directory = null;
            
 
