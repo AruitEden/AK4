@@ -1,4 +1,5 @@
-﻿using System;
+//Вариант 20
+using System;
 using System.IO;
 
 namespace CLab3
